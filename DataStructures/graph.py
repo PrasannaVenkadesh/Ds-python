@@ -1,11 +1,11 @@
 #Graph Data Structure in Python
 '''
 A vertex 'v1' is said to be adjacent to vertex 'v2' if there exist an Edge 'e' in between them.
-There are 2 ways of implementing graph. 
-1. Adjacency matrix
+There are 2 ways of implementing a graph in Python. 
+1. Adjacency matrix.
 2. Adjacency List.
 
-In this program lets, take the 2nd method to implement.
+In this program let us take the 2nd approach (Adjacency List) to implement graph.
 '''
 
 #Vertex class which has payloads about individual vertices
