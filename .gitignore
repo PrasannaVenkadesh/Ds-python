@@ -1,5 +1,2 @@
-#Ignore itself
-.gitignore
-
 #Runtime files
 DataStructures/*.pyc
